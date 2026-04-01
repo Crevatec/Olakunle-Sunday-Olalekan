@@ -29,7 +29,7 @@ I am passionate about building practical systems, intelligent tools, and data‑
 ## 🛠️ Technologies & Tools
 
 **Programming Languages:**  
-Python • R • JavaScript • HTML • CSS • SQL • Bash  
+Python • JavaScript • HTML • CSS • SQL • PHP 
 
 **Frameworks & Technologies:**  
 Node.js • React • Django • Flask • Bootstrap • Pandas • NumPy • Scikit‑Learn • REST APIs  
