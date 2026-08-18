@@ -92,10 +92,12 @@ As **Head of Operations at CREVATEC**, I help lead a technology and innovation c
 
 <p>
   <a href="https://crevatec.com"><img src="https://img.shields.io/badge/Website-crevatec.com-0A0A0A?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/olakunle-sunday-olalekan/"><img src="https://img.shields.io/badge/LinkedIn-Olakunle%20Sunday%20Olalekan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Olalekan3009"><img src="https://img.shields.io/badge/X-@Olalekan3009-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/olakunleolalekan"><img src="https://img.shields.io/badge/Kaggle-olakunleolalekan-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
   <a href="https://facebook.com/OlakunleSundayOlalekan"><img src="https://img.shields.io/badge/Facebook-Olakunle%20Sunday%20Olalekan-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/i_am_olakunle_olalekan"><img src="https://img.shields.io/badge/Instagram-@i__am__olakunle__olalekan-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:creating.tech.synergy@gmail.com"><img src="https://img.shields.io/badge/Email-creating.tech.synergy@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/crevatec"><img src="https://img.shields.io/badge/Facebook-Crevatec-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
   <a href="https://instagram.com/Officialcrevatec"><img src="https://img.shields.io/badge/Instagram-@Officialcrevatec-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="https://youtube.com/@crevatec"><img src="https://img.shields.io/badge/YouTube-@crevatec-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
