@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Olakunle Sunday Olalekan 👋</h1>
 
 <p align="center">
-  <b>IT Consultant and Media Specialist</b><br/>
-  Founder of <a href="https://crevatec.com">CREVATEC</a> — Creating Values Through Tech Synergies 🇳🇬
+  <b>AI and Software Engineer</b><br/>
+  Head of Operations at <a href="https://crevatec.com">CREVATEC</a> — Creating Values Through Tech Synergies 🇳🇬
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Nigeria-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Founder-CREVATEC-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-AI%20%26%20Software%20Engineer-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20To-Collaboration-orange?style=flat-square" />
 </p>
 
@@ -17,7 +17,7 @@
 
 I'm a multidisciplinary technology professional building solutions at the intersection of **AI, software engineering, education, and digital transformation**. I work with purpose — every system I build and every skill I teach is guided by one conviction: *technology, applied with intention, creates lasting value.*
 
-As the **Founder of CREVATEC**, I lead a technology and innovation company operating across six divisions:
+As **Head of Operations at CREVATEC**, I help lead a technology and innovation company operating across six divisions:
 
 - 🔧 **Hardware & Engineering** — Embedded systems, IoT, and infrastructure
 - 💻 **Programming & Software Development** — Web apps, APIs, automation, enterprise software
@@ -55,7 +55,7 @@ As the **Founder of CREVATEC**, I lead a technology and innovation company opera
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Databases**
